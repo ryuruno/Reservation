@@ -1,0 +1,15 @@
+hotelmanage\external\ReservationManagementService.class
+hotelmanage\PolicyHandler.class
+hotelmanage\ReservationManagementRepository.class
+hotelmanage\Application.class
+hotelmanage\config\kafka\KafkaProcessor.class
+hotelmanage\ReservationManagementController.class
+hotelmanage\CheckedOut.class
+hotelmanage\PaymentRequested.class
+hotelmanage\ReservationManagement.class
+hotelmanage\AbstractEvent.class
+hotelmanage\external\PaymentManagementService.class
+hotelmanage\AbstractEvent$1.class
+hotelmanage\Reserved.class
+hotelmanage\PaymentCompleted.class
+hotelmanage\external\Payment.class
